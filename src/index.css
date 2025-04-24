@@ -1,0 +1,54 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Carter+One&family=Playwrite+HR+Lijeva:wght@100..400&family=Playwrite+HU:wght@100..400&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Timmana&display=swap');
+
+@import "tailwindcss";
+.portfolio-bg-hero{
+    background-image: url('https://pxdraft.com/react/kanye/img/bg.jpg');
+}
+.hero-bg{
+    background-image: url('https://images.unsplash.com/photo-1556761175-b413da4baf72?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80');
+}
+.login-bg{
+    background-image: url('https://images.unsplash.com/photo-1546514714-df0ccc50d7bf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=667&q=80');
+}
+.signUp-bg{
+    background-image: url('https://images.unsplash.com/photo-1494621930069-4fd4b2e24a11?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=715&q=80');
+}
+
+.active{
+    background-color: #50A2FF;
+    color: white;
+}
+
+.font-poppins{
+    font-family: "Poppins", sans-serif;
+}
+
+.font-acme{
+    font-family: "Acme", sans-serif;
+}
+
+.font-carter-one{
+    font-family: "Carter One", system-ui;
+}
+
+.font-timmana-regular {
+    font-family: "Timmana", sans-serif;
+}
+
+.font-playwrite-hu {
+    font-family: "Playwrite HU", cursive;
+}
+
+.font-playwrite_hr {
+    font-family: "Playwrite HR Lijeva", cursive;
+}
+
+
+
+
+
+
+
+
+

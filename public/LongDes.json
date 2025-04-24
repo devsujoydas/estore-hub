@@ -1,0 +1,148 @@
+[
+  {
+    "id": "residential-36",
+    "img": "https://i.ibb.co.com/Zps3010X/residential36-netlify-app.png",
+    "title": "Residential Real Estate",
+    "description": "A modern real estate platform for finding and listing residential properties, including apartments, townhouses, and vacation rentals.",
+    "rating": 4.9,
+    "sourceURL": "https://github.com/devsujoy36/Residential_Real_Estate",
+    "liveURL": "https://residential36.netlify.app",
+    "features": [
+      "Comprehensive residential property listings",
+      "Advanced search and filtering options",
+      "Secure inquiry and booking system",
+      "High-quality property images and details",
+      "User reviews and ratings",
+      "Responsive and mobile-friendly design"
+    ]
+  },
+      {
+        "id": "tour-to-tuscany",
+        "img": "https://i.ibb.co.com/mCj0sTHm/tourtotuscany36-netlify-app.png",
+        "title": "Tour-To-Tuscany",
+        "description": "Tour-To-Tuscany is a comprehensive travel guide and booking platform dedicated to providing travelers with an in-depth experience of Tuscany, Italy. This project aims to assist tourists in exploring the beautiful landscapes, historical landmarks, and cultural richness of Tuscany. The platform offers a detailed interactive travel guide that showcases top attractions, hidden gems, and must-visit locations. Users can seamlessly book hotels, guided tours, and travel packages with secure payment options. Additionally, the platform includes user-generated reviews and ratings, allowing travelers to make informed decisions. Designed with a responsive and mobile-friendly interface, the website ensures a smooth user experience across all devices.",
+        "rating": 4.8,
+        "sourceURL": "https://github.com/devsujoy36/Tour-To-Tuscany.git",
+        "liveURL": "https://tourtotuscany36.netlify.app",
+        "features": [
+          "Interactive travel guide for Tuscany",
+          "Secure online booking system",
+          "Detailed destination descriptions",
+          "User reviews and ratings",
+          "Responsive and mobile-friendly design"
+        ]
+      },
+      {
+        "id": "gadget-mart-bd",
+        "img": "https://i.ibb.co.com/NdWPz5cy/gadgetmartbd-netlify-app.png",
+        "title": "GADGET-MART-BD",
+        "description": "GADGET-MART-BD is an advanced e-commerce platform designed to offer a seamless shopping experience for electronics and gadgets in Bangladesh. The platform features a vast collection of smartphones, laptops, gaming accessories, smart home devices, and other tech products. With a user-friendly interface, customers can easily navigate through different categories, compare products, and read detailed descriptions. The website includes a secure payment gateway supporting multiple payment options, including credit cards, mobile banking, and cash on delivery. Customer reviews and ratings help buyers make informed purchase decisions. The fast delivery service ensures timely product arrival, enhancing customer satisfaction.",
+        "rating": 4.7,
+        "sourceURL": "https://github.com/devsujoy36/GADGET-MART-BD.git",
+        "liveURL": "https://gadgetmartbd.netlify.app",
+        "features": [
+          "Wide range of gadgets and electronics",
+          "User-friendly shopping experience",
+          "Secure payment gateway",
+          "Product reviews and ratings",
+          "Fast delivery service"
+        ]
+      },
+      {
+        "id": "nest-mart-bd",
+        "img": "https://i.ibb.co.com/jPjh8HxH/nestmartbd-netlify-app.png",
+        "title": "Nest-Mart-BD",
+        "description": "Nest-Mart-BD is a user-centric e-commerce platform that provides a wide range of products, making shopping more accessible and convenient. The website categorizes products efficiently, helping customers find daily essentials, fashion, electronics, and household items with ease. Discount offers and deals make it a budget-friendly shopping destination. Secure payment integration ensures smooth transactions. With an intuitive UI and fast checkout process, users enjoy a hassle-free shopping experience. The platform’s reliable delivery system ensures that orders reach customers on time, increasing satisfaction and trust.",
+        "rating": 4.6,
+        "sourceURL": "https://github.com/devsujoy36/Nest-Mart-BD.git",
+        "liveURL": "https://nestmartbd.netlify.app",
+        "features": [
+          "Diverse product categories",
+          "User-friendly navigation",
+          "Discount offers and deals",
+          "Secure payment integration",
+          "Fast and reliable delivery"
+        ]
+      },
+      {
+        "id": "furni",
+        "img": "https://i.ibb.co.com/k63dNkZ1/furniwordpress-netlify-app.png",
+        "title": "Furni",
+        "description": "Furni is an online store specializing in stylish and modern furniture for homes and offices. The platform showcases a wide collection of furniture made from high-quality materials, ensuring durability and aesthetic appeal. Customers can explore various categories, including sofas, tables, chairs, and storage solutions. The website provides customization options, allowing users to choose colors and materials based on their preferences. With a responsive design, Furni ensures a seamless shopping experience across different devices. Fast shipping services guarantee timely deliveries, making it a reliable choice for furnishing needs.",
+        "rating": 4.7,
+        "sourceURL": "https://github.com/devsujoy36/Furni_Wordpress.git",
+        "liveURL": "https://furniwordpress.netlify.app",
+        "features": [
+          "Wide range of modern furniture",
+          "High-quality materials",
+          "Easy customization options",
+          "Home and office furniture",
+          "Fast shipping services"
+        ]
+      },{
+        "id": "react-career-hub",
+        "img": "https://i.ibb.co.com/QFm2Lfd3/careerhub36-netlify-app.png",
+        "title": "React-Career-Hub",
+        "description": "React Career Hub is a career guidance and job recommendation platform designed to assist job seekers in finding suitable opportunities based on their skills and interests. This platform provides users with insightful career advice, job listings, and company reviews to help them make informed decisions about their professional growth. The platform features job recommendations tailored to individual skills, company ratings, resume-building guidance, and career advice articles. With a responsive and user-friendly interface, users can easily browse through job listings, read expert career tips, and enhance their resumes to stand out in the job market. Future enhancements may include AI-driven job matching, interview preparation modules, and integration with professional networking platforms like LinkedIn.",
+        "rating": 4.9,
+        "sourceURL": "https://github.com/devsujoy36/React-Career-Hub.git",
+        "liveURL": "https://careerhub36.netlify.app",
+        "features": [
+          "Job recommendations based on user skills",
+          "Career advice and tips",
+          "Company reviews and ratings",
+          "Resume-building guidance",
+          "Responsive and user-friendly interface"
+        ]
+      },
+      {
+        "id": "tic-tac-toe",
+        "img": "https://i.ibb.co.com/XZmN7WZm/Tic-tac-toe-Old-Project-Apna-Collage.png",
+        "title": "Tic Tac Toe",
+        "description": "Tic Tac Toe is a fun and interactive game that allows users to enjoy the classic strategy-based gameplay directly in their browser. This project features both single-player and multiplayer modes, enabling users to play against AI or a friend. The smooth UI/UX design ensures an engaging gaming experience, with a visually appealing interface and seamless transitions. A built-in score-tracking system keeps records of past games, making the experience competitive and enjoyable. This game is fully responsive and works efficiently on different screen sizes. Future improvements may include AI difficulty levels, a global leaderboard, and more engaging animations to enhance the gameplay experience.",
+        "rating": 4.5,
+        "sourceURL": "https://github.com/devsujoy36/Tic-tac-toe-Old-Project-Apna-Collage.git",
+        "liveURL": "https://devsujoy36.github.io/Tic-tac-toe-Old-Project-Apna-Collage/",
+        "features": [
+          "Classic Tic-Tac-Toe gameplay",
+          "Single and multiplayer modes",
+          "Smooth UI/UX experience",
+          "Score tracking system",
+          "Fully responsive design"
+        ]
+      },
+      {
+        "id": "recipes36",
+        "img": "https://i.ibb.co.com/RGJ7DH95/recipes36-netlify-app.png",
+        "title": "Recipes36",
+        "description": "Recipes36 is a recipe-sharing platform designed for cooking enthusiasts looking for inspiration and guidance in their culinary journey. The platform hosts thousands of delicious recipes, contributed by users worldwide. Each recipe includes step-by-step cooking instructions, ingredient lists, and preparation tips to make cooking easier for users of all skill levels. Users can search for recipes based on ingredients they have, save their favorite recipes, and even contribute their own unique dishes. The interface is designed to be user-friendly and visually appealing, making it simple to navigate through different categories. Future updates may include video tutorials, a meal-planning feature, and integration with grocery delivery services to provide a seamless cooking experience.",
+        "rating": 4.8,
+        "sourceURL": "https://github.com/devsujoy36/Assignment-7.git",
+        "liveURL": "https://recipes36.netlify.app",
+        "features": [
+          "Thousands of delicious recipes",
+          "Step-by-step cooking guides",
+          "User-contributed recipes",
+          "Ingredient-based search feature",
+          "Save favorite recipes option"
+        ]
+      },
+      {
+        "id": "crypto-world",
+        "img": "https://i.ibb.co.com/LdqRJsJZ/sujoydas36-netlify-app.png",
+        "title": "Crypto World",
+        "description": "Crypto World is an informative platform that provides users with real-time updates, news, and analysis related to the cryptocurrency market. Users can track live cryptocurrency prices, follow market trends, and read expert insights on different digital assets. The website also includes a portfolio tracking system that allows users to monitor their investments and analyze their performance over time. The interface is designed to be secure, intuitive, and visually engaging, making it easy for both beginners and experienced investors to navigate. Future improvements may include AI-based investment predictions, advanced charting tools, and integration with major crypto exchanges to enable direct trading from the platform.",
+        "rating": 4.7,
+        "sourceURL": "https://github.com/devsujoy36/crypto-world.git",
+        "liveURL": "https://sujoydas36.netlify.app",
+        "features": [
+          "Live cryptocurrency price updates",
+          "Market trends and analysis",
+          "Crypto news and updates",
+          "Portfolio tracking system",
+          "Secure and user-friendly interface"
+        ]
+      }
+    ]
+  
+  
